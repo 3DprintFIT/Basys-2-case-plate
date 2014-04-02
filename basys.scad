@@ -1,5 +1,3 @@
-use <WriteScad/Write.scad>
-
 //Board size 
 board_width = 109.4;
 board_height = 71.5;
@@ -27,14 +25,7 @@ module stands_holes(holes_diameter = 1.6){
 
 }
 
-module writing(){
-	rotate([90,0,0]) scale([10,10,10]) translate([0,-0.60,0])
-	writecube("FIT", center=false,  font = "orbitron.dxf");
-}
-
 difference(){
 	stands();
 	stands_holes();
-	writing();
-
 }
