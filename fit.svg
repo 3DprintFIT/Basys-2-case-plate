@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="715.1875"
-   height="281.46875"
+   width="718.81439"
+   height="283.87122"
    id="svg2"
    inkscape:label="Pozadí"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Nový dokument 1">
+   sodipodi:docname="fit-nocurves.svg">
   <defs
      id="defs3" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="393.37215"
-     inkscape:cy="35.698596"
+     inkscape:cx="328.87369"
+     inkscape:cy="36.998596"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,11 +56,11 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-21.5,-105.3125)">
+     transform="translate(-20.2,-104.21003)">
     <path
-       style="font-size:430.1741333px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro Bold"
-       d="m 21.5,105.3125 0,0.5 0,280.46875 0.5,0 0,0.5 63.21875,0 0.5,0 0,-0.5 0,-108.34375 103.1875,0 0.5,0 0,-0.5 0,-53.34375 0,-0.5 -0.5,0 -103.1875,0 0,-63.9375 121.25,0 0.5,0 0,-0.5 0,-53.34375 0,-0.5 -0.5,0 -184.96875,0 -0.5,0 z m 243.3125,0 0,0.5 0,53.34375 0,0.5 0.5,0 64.875,0 0,172.78125 -64.875,0 -0.5,0 0,0.5 0,53.34375 0.5,0 0,0.5 194.4375,0 0.5,0 0,-0.5 0,-53.34375 0,-0.5 -0.5,0 -64.90625,0 0,-172.78125 64.90625,0 0.5,0 0,-0.5 0,-53.34375 0,-0.5 -0.5,0 -194.4375,0 -0.5,0 z m 239.4375,0 0,0.5 0,53.34375 0,0.5 0.5,0 83.375,0 0,226.625 0.5,0 0,0.5 63.65625,0 0.5,0 0,-0.5 0,-226.625 83.40625,0 0.5,0 0,-0.5 0,-53.34375 0,-0.5 -0.5,0 -231.4375,0 -0.5,0 z m -481.75,1 183.96875,0 0,52.34375 -121.25,0 -0.5,0 0,0.5 0,64.9375 0,0.5 0.5,0 103.1875,0 0,52.34375 -103.1875,0 -0.5,0 0,0.5 0,108.34375 -62.21875,0 0,-279.46875 z m 243.3125,0 193.4375,0 0,52.34375 -64.90625,0 -0.5,0 0,0.5 0,173.78125 0,0.5 0.5,0 64.90625,0 0,52.34375 -193.4375,0 0,-52.34375 64.875,0 0.5,0 0,-0.5 0,-173.78125 0,-0.5 -0.5,0 -64.875,0 0,-52.34375 z m 239.4375,0 230.4375,0 0,52.34375 -83.40625,0 -0.5,0 0,0.5 0,226.625 -62.65625,0 0,-226.625 0,-0.5 -0.5,0 -83.375,0 0,-52.34375 z"
-       id="text10139"
+       style="font-size:431.39758301px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro Bold"
+       d="m 20.1875,104.21875 0,1.28125 0,281.28125 1.3125,0 0,1.3125 63.40625,0 1.3125,0 0,-1.3125 0,-107.84375 102.65625,0 1.3125,0 0,-1.3125 0,-53.46875 0,-1.3125 -1.3125,0 -102.65625,0 0,-62.53125 120.78125,0 1.3125,0 0,-1.3125 0,-53.5 0,-1.28125 -1.3125,0 -185.5,0 -1.3125,0 z m 244,0 0,1.28125 0,53.5 0,1.3125 1.3125,0 64.28125,0 0,171.6875 -64.28125,0 -1.3125,0 0,1.28125 0,53.5 1.3125,0 0,1.3125 195,0 1.28125,0 0,-1.3125 0,-53.5 0,-1.28125 -1.28125,0 -64.28125,0 0,-171.6875 64.28125,0 1.28125,0 0,-1.3125 0,-53.5 0,-1.28125 -1.28125,0 -195,0 -1.3125,0 z m 240.125,0 0,1.28125 0,53.5 0,1.3125 1.3125,0 82.8125,0 0,226.46875 1.3125,0 0,1.3125 63.84375,0 1.3125,0 0,-1.3125 0,-226.46875 82.8125,0 1.28125,0 0,-1.3125 0,-53.5 0,-1.28125 -1.28125,0 -232.09375,0 -1.3125,0 z m -481.5,2.59375 182.875,0 0,50.90625 -120.78125,0 -1.28125,0 0,1.28125 0,65.15625 0,1.28125 1.28125,0 102.6875,0 0,50.90625 -102.6875,0 -1.28125,0 0,1.28125 0,107.84375 -60.8125,0 0,-278.65625 z m 244,0 192.375,0 0,50.90625 -64.28125,0 -1.28125,0 0,1.28125 0,174.28125 0,1.3125 1.28125,0 64.28125,0 0,50.875 -192.375,0 0,-50.875 64.25,0 1.3125,0 0,-1.3125 0,-174.28125 0,-1.28125 -1.3125,0 -64.25,0 0,-50.90625 z m 240.125,0 229.46875,0 0,50.90625 -82.8125,0 -1.3125,0 0,1.28125 0,226.46875 -61.25,0 0,-226.46875 0,-1.28125 -1.28125,0 -82.8125,0 0,-50.90625 z"
+       id="text10138"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
