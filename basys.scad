@@ -30,7 +30,7 @@ module stands_holes(holes_diameter = 1.6){
 }
 
 module fit() {
-	translate([0,0,-board_thick/2]) linear_extrude(height=layer)
+	translate([0,0,-board_thick/2]) mirror() linear_extrude(height=layer)
 		translate([-board_width*0.4,-board_height*0.4])
 			resize([board_width*0.8,board_height*0.8])
 				import("fit.dxf");
