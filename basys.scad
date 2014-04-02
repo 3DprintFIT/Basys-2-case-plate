@@ -1,9 +1,11 @@
-use <WriteScad/Write.scad>
-
 //Board size 
 board_width = 109.4;
 board_height = 71.5;
 board_thick = 2.5;
+
+// FIT thickness
+fit_thick = 2;
+layer = 0.4;
 
 //Holes are measured center to center
 holes_width = 101.5/2;
@@ -27,14 +29,16 @@ module stands_holes(holes_diameter = 1.6){
 
 }
 
-module writing(){
-	rotate([90,0,0]) scale([10,10,10]) translate([0,-0.60,0])
-	writecube("FIT", center=false,  font = "orbitron.dxf");
+module fit() {
+	translate([0,0,-board_thick/2]) linear_extrude(height=layer)
+		translate([-board_width*0.4,-board_height*0.4])
+			resize([board_width*0.8,board_height*0.8])
+				import("fit.dxf");
 }
 
 difference(){
 	stands();
 	stands_holes();
-	writing();
-
+	fit();
 }
+
